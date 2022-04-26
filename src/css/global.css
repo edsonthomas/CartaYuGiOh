@@ -1,0 +1,20 @@
+body{
+  font-family: 'Cinzel', serif;
+  display: flex;
+  justify-content: center;
+  background-color: #a9a9a9;
+}
+
+main {
+  min-width: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.cartao{
+  display: flex;
+  gap: 30px;
+  padding: 30px 0;
+}
